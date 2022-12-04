@@ -1,0 +1,2 @@
+Get the images of people who can enter in a folder named 'worthy'.
+Cheers
